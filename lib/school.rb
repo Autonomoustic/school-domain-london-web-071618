@@ -14,5 +14,5 @@ class School
   else
     @roster[s_grade]<< s_name
   end
-
+end
 end
