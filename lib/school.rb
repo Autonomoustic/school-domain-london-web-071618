@@ -15,4 +15,9 @@ class School
     @roster[s_grade]<< s_name
   end
 end
+
+  def grade
+     @grade
+  end
 end
+
